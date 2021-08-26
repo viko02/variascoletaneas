@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWfq96FHmsKXaGzhP160tpXsN54mGGdg-Ang&usqp=CAU", Flashback Anos 80
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UoNn_BG9Gb0
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUxBwXT7nOtTusRLOWNec0jD2G6VTisk-usQ&usqp=CAU", Flashback Dance Anos 90
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=D_ZPS67R73I
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_7f9ad025c8a6463195a2af9b8e8354c6~mv2.jpg", Rock Moments
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SwenVDtsicc
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/309/original/20210501_142305.jpg?1619889814", Classic Rock
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CioxPFhY6GY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRi2qijofZaa_rmRLqFs-oj19X6pUdlFPPADQ&usqp=CAU", Rock Light 2000 To 2010
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UHYg0h_Mh38
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_104840185da3414dad98b3e52046607d~mv2.jpg", FM Internacional 98.0
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3rbuTp-6tZ8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/886/340/full/Screenshot_20200918-204604_Chrome.jpg?1600472808", Pure Rocks Band
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XSwqooN4y4Q
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/366/original/20210501_153416.jpg?1619894091", The Best Of Rock N' Roll
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=C9RLc3dFsQQ
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
